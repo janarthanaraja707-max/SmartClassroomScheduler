@@ -1,0 +1,14 @@
+# Build files
+build/
+dist/
+
+# Database files
+*.db
+*.mv.db
+*.trace.db
+
+# NetBeans private files
+nbproject/private/
+
+# H2 lock files
+*.lock.db
